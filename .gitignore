@@ -1,0 +1,12 @@
+# Windows, Mac
+Thumbs.db
+*.DS_Store
+._*
+
+# NPM
+node_modules
+
+# env
+.env
+.env.development
+.env.production
